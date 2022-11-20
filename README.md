@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @begimaii
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React JS, Data Structure
-- 📫 How to reach me https://www.linkedin.com/feed/
+- 📫 How to reach me https://www.linkedin.com/in/begimai-abdybekova-884631253/
 
 <!---
 begimaii/begimaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
