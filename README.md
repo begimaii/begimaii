@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @begimaii
+- 👋 Hi, I’m Begimai
 - 👀 I’m interested in developing user-friendly, interactive web applications.
 - 🌱 I’m currently learning React JS, Data Structure
 - 📫 How to reach me https://www.linkedin.com/in/begimai-abdybekova-884631253/
