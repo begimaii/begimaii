@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @begimaii
-- 👀 I’m interested in coding
+- 👀 I’m interested in developing user-friendly, interactive web applications.
 - 🌱 I’m currently learning React JS, Data Structure
 - 📫 How to reach me https://www.linkedin.com/in/begimai-abdybekova-884631253/
 
